@@ -5,6 +5,10 @@ namespace GenshinImpact
     class Program
     {
         static void Main(string[] args)
+        
+        // int,int.Parse(Console.ReadLine()), if, while, Random. Next, 
+
+
         {
             Console.WriteLine("How many primogens do you have?");
             int primogen = int.Parse(Console.ReadLine());
