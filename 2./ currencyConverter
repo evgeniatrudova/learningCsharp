@@ -1,6 +1,6 @@
 using System;
 
-namespace Currency Converter
+namespace urrency Converter
 {
     class Program
     {
